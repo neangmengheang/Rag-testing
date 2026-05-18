@@ -1,0 +1,6 @@
+{
+  "name": "DocMind - Secure Documentation Vectorizer",
+  "description": "Upload PDFs and vectorize them into searchable segments using Supabase and Gemini embeddings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
